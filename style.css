@@ -5,12 +5,12 @@
 }
 h1 {
     font-family: 'Roboto', sans-serif;
-    margin-top: 0px !important;
-    padding-top: 21.44px !important;
+    margin-top: 0vw;
+    padding-top: 27vh;
 }
 p {
     font-family: 'Roboto', sans-serif;
 }
 body {
-    margin: 0px !important;
+    margin: 0vw;
 }
